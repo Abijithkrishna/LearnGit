@@ -1,2 +1,4 @@
 Hi
 Testing git
+We have a new Line
+We have another new Line
